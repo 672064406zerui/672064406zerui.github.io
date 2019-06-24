@@ -1,7 +1,7 @@
 <!--  -->
 <template>
 <div class="h100 over-h flex-v">
-    <div class="flex-1 over-auto">
+    <div class="flex-1 over-auto" style="color:red">
         中间部门内容
     </div>
 </div>

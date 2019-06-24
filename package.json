@@ -8,6 +8,9 @@
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs"
   },
+  "devDependencies": {
+    "vuepress": "^1.0.1"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/672064406zerui/code.github.io.git"
