@@ -1,2 +1,1 @@
-# code.github.io
-文档。
+'# Hello VuePress!' 
