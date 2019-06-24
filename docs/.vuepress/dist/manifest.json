@@ -4,11 +4,11 @@
   "start_url": "index.html",
   "display": "standalone",
   "background_color": "#2196f3",
-  "description": "张三的个人主页",
+  "description": "Dick的个人主页",
   "theme_color": "blue",
   "icons": [
     {
-      "src": "./photo.jpg",
+      "src": "./qq.png",
       "sizes": "144x144",
       "type": "image/png"
     }
