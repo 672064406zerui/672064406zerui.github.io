@@ -1,5 +1,5 @@
 module.exports = {
-  base:"code.github.io",
+  base:"./",
   title: "文档",
   description: "这是一个文档demo",
   serviceWorker: true,
